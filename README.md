@@ -1,3 +1,3 @@
 # Clones
 
-This Repo consists Cloned static websites
+This Repo consists Cloned  websites
